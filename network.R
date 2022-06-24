@@ -1,5 +1,5 @@
-input_file = '/mnt/data/chen/networks_birchler/log2_rpkm_data_sig.txt'
-out_dir = '/mnt/data/chen/networks_birchler/'
+input_file = 'networks_test/exp_matrix.txt'
+out_dir = 'networks_test/'
 
 
 library(minet)
